@@ -1,7 +1,9 @@
-404
+
+[puppet-sock.pw](https://puppet-sock.pw)
+
 [Linktree: @Puppet_Sock_](https://linktr.ee/Puppet_Sock_)
-[]()
-[]()
+
+[Bluesky: @puppet-sock.pw](https://bsky.app/profile/puppet-sock.pw)
 
 <!--
 **puppet-sock/puppet-sock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
