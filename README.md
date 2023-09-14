@@ -1,4 +1,7 @@
 404
+[Linktree: @Puppet_Sock_](https://linktr.ee/Puppet_Sock_)
+[]()
+[]()
 
 <!--
 **puppet-sock/puppet-sock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
