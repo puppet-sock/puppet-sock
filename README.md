@@ -1,7 +1,7 @@
 [puppet-sock.pw](https://puppet-sock.pw)<br>
 [Linktree: @Puppet_Sock_](https://linktr.ee/Puppet_Sock_)<br>
 [Twitter: @Puppet_Sock_](https://twitter.com/Puppet_Sock_)<br>
-[Reddit: u/u/Puppet_Sock_](https://www.reddit.com/user/Puppet_Sock_)<br>
+[Reddit: u/Puppet_Sock_](https://www.reddit.com/user/Puppet_Sock_)<br>
 [Twitch: puppet_sock_](https://www.twitch.tv/puppet_sock_)<br>
 [Bluesky: @puppet-sock.pw](https://bsky.app/profile/puppet-sock.pw)<br>
 <!--
